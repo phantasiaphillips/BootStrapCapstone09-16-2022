@@ -18,7 +18,7 @@ console.log(Number(b));
 console.log(Number(c));
 console.log(Number(d));
 
-
+console.log((+a) + " " + (+b) + " " + (+c) + " " + (+d))
 
 
 
