@@ -8,3 +8,21 @@ console.log(parseFloat(b));
 console.log(parseFloat(c));
 console.log(parseFloat(d));
 
+console.log(parseFloat(a));
+console.log(parseFloat(b));
+console.log(parseFloat(c));
+console.log(parseFloat(d));
+
+console.log(Number(a));
+console.log(Number(b));
+console.log(Number(c));
+console.log(Number(d));
+
+
+
+
+
+
+
+
+
